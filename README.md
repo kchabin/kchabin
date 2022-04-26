@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kchabin
-- 👀 I’m interested in information security and cloud.
-- 🌱 I’m currently learning C programming.
+- 👀 I’m interested in information security and secure coding.
+- 🌱 I’m currently learning C, C++, Python, Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gnestib@naver.com
 
