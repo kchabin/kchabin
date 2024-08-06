@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kchabin
-- 👀 I’m interested in Web Development and K8S.
-- 🌱 I’m currently learning Spring, JAVA, and Algorithm, Docker, Kubernetes.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend Web Development and K8S.
+- 🌱 I’m currently learning Spring, JAVA, Kotlin and Kubernetes.
 - 📫 How to reach me kchabin@swu.ac.kr
   
 
